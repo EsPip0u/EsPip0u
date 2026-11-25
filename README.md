@@ -1,4 +1,4 @@
-<h3 align="center">✨<ins>Bonjour, je m'appelle Eliot<ins>✨</h3>
+<h2 align="center">✨<ins>Bonjour, je m'appelle Eliot</ins>✨</h2>
 <p align="center">je suis étudiant à l'EPSI en 1re année afin d'apprendre le développement.<br>
 Je ne sais pas encore dans quel domaine mais je sais que cette première année me donneras les réponses que je veut.<br>
 Tant que je peux coder (et apprendre a mieux coder), je suis content.</p>
